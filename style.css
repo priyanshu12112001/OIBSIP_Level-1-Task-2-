@@ -6,7 +6,7 @@
     display: none;
 }
 .menubar-desktop{
-    background: coral; 
+    background: red; 
     position: fixed;
     top: 0;
     left: 0;
@@ -15,7 +15,7 @@
     padding: 10px 20px;
 }
 .menubar-desktop li{
-    background: coral;
+    background: red;
     border: none;
     padding-bottom: 10px;
     text-align: center;
@@ -33,14 +33,14 @@
     width: 200px;
     height: 190px;
     border-radius: 50%;
-    border: 10px solid salmon;
+    border: 10px solid black;
 
 }
 
 
 .main-content{
     padding-left: 20%;
-    background: #000000;
+    background: darkblue;
     margin-bottom: 0;
 }
 
@@ -55,7 +55,7 @@ section h4,h1, h6{
 }
 section h4{
     font-size: 45px;
-    color: coral;
+    color: red;
     padding-bottom: 10px;
 }
 section h5{
@@ -65,7 +65,7 @@ section h5{
 
 #about h1{
     font-size: 72px;
-    color: coral;
+    color: red;
     padding-bottom: 10px;
 }
 
